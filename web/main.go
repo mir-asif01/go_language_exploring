@@ -19,7 +19,6 @@ func main() {
 	if err != nil {
 		fmt.Println("Error", err)
 	}
-	var newTodo to_do
 	post, _ := ioutil.ReadAll(res.Body)
 	fmt.Println(string(post))
 
