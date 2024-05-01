@@ -120,8 +120,8 @@ func deleteMethod() {
 
 func main() {
 	// postMethod()
-	// getMethode()
+	getMethode()
 	// updateMethod()
-
-	deleteMethod()
+	fmt.PrintLn("Learning in Lapce code editor !!!")
+	// deleteMethod()
 }
