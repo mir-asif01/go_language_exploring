@@ -119,9 +119,9 @@ func deleteMethod() {
 }
 
 func main() {
-	// postMethod()
+	postMethod()
 	getMethod()
-	// updateMethod()
+	updateMethod()
+	deleteMethod()
 	fmt.Print("Learning in Lapce code editor !!!")
-	// deleteMethod()
 }
